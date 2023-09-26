@@ -95,5 +95,6 @@
         "io_context": "cpp",
         "netfwd": "cpp"
     },
-    "cmake.buildTask": true
+    "cmake.buildTask": true,
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}\\build\\compile_commands.json"
 }
